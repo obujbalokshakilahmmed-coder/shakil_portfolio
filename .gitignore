@@ -1,0 +1,6 @@
+cd E:\shakil_portfolio
+git init
+git add .
+git commit -m "My Premium Neon Portfolio Completed"
+git remote add origin https://github.com
+git push -u origin main
